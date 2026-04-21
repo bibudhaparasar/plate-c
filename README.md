@@ -79,6 +79,8 @@ Typical yields: ~30% of Plate-C reads contain contacts (20% for Easy Dip-C), com
 
 ### 2. Quantify multi-scale architectural changes
 
+![Plate-C overview](images/attributes_schemes.png)
+
 `analyze_scab/` implements the 7-attribute statistical framework:
 
 1. Chromosome intermingling (fraction of interchromosomal contacts)
