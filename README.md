@@ -4,6 +4,8 @@ Code and tools to analyze Plate-C data.
 
 ## Introduction
 
+![Plate-C overview](images/scheme.png)
+
 **Plate-C** ("in-plate chromosome conformation capture") is a high-throughput, cost-effective Hi-C platform that profiles thousands of whole-genome 3D architectures in a day. Cells are cultured directly in 96- or 384-well plates, perturbed with diverse biological or chemical conditions, and processed in-plate through an optimized workflow that integrates Hi-C (fixation, digestion, ligation) with library preparation (lysis, transposition, barcoded amplification) — without biotin pull-down or bead transfers.
 
 This repository contains the code used to analyze Plate-C bulk data and the companion single-cell method **Easy Dip-C** ("easy diploid chromosome conformation capture"), which applies the same in-suspension chemistry to individual nuclei sorted into 384-well plates.
